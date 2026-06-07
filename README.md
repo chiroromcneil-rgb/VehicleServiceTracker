@@ -13,7 +13,7 @@ This is a C# Windows Forms application for ITS203 Object-Oriented Design and Pro
 * View upcoming service reminders.
 * Generate service history and cost summary reports.
 * Save data using CSV file-based storage inside the application Data folder.
-* Validate user input and show clear error messages using exception handling.
+* Validate user input and show clear error messages using the exception handling.
 
 ## OOP Principles Used
 
