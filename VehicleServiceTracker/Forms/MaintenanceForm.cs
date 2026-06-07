@@ -1,3 +1,4 @@
+// MaintenanceRecord class stores completed service history and cost.
 using System;
 using System.Drawing;
 using System.Linq;
