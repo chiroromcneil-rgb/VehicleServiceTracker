@@ -1,3 +1,4 @@
+// ServiceBooking class stores booking information for a vehicle.
 using System;
 using System.Drawing;
 using System.Linq;
