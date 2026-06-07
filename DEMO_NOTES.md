@@ -38,3 +38,15 @@ Do not fake old commits. Commit your real work as you do it. Possible commit mes
 * Add reporting interface and report classes
 * Update README and demo notes
 
+\## Main Features
+
+\- Add vehicle records
+
+\- Search vehicles
+
+\- Create service bookings
+
+\- Record maintenance history
+
+\- Calculate total maintenance cost
+
