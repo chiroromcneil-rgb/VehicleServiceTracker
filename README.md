@@ -57,4 +57,6 @@ The project uses classes, objects, inheritance, encapsulation, abstraction, poly
 ## References and Tools Used
 - Microsoft Visual Studio
 - C# Windows Forms
-- ChatGPT for study support and debugging guidance
+- C
+- ## Storage
+The application uses CSV file storage to save vehicle, booking, and maintenance information.hatGPT for study support and debugging guidance
