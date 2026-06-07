@@ -51,4 +51,6 @@ The application uses CSV files. When the program runs, it creates a `Data` folde
 
 * Microsoft Learn C# documentation.
 * Microsoft Learn Windows Forms documentation.
+* ## OOP Concepts Used
+The project uses classes, objects, inheritance, encapsulation, abstraction, polymorphism, and exception handling.
 
