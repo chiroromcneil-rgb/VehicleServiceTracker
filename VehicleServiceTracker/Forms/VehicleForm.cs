@@ -1,3 +1,4 @@
+// Vehicle class stores basic vehicle details.
 using System;
 using System.Drawing;
 using System.Windows.Forms;
