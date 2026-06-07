@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D9B9BC43-3EF0-4E6B-9A47-9C5C280B6A80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VehicleServiceTracker</RootNamespace>
+    <AssemblyName>VehicleServiceTracker</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Owner.cs" />
+    <Compile Include="Models\Vehicle.cs" />
+    <Compile Include="Models\Car.cs" />
+    <Compile Include="Models\ServiceBooking.cs" />
+    <Compile Include="Models\MaintenanceRecord.cs" />
+    <Compile Include="Services\IServiceReport.cs" />
+    <Compile Include="Services\ServiceHistoryReport.cs" />
+    <Compile Include="Services\CostSummaryReport.cs" />
+    <Compile Include="Services\ServiceManager.cs" />
+    <Compile Include="Forms\MainForm.cs" />
+    <Compile Include="Forms\VehicleForm.cs" />
+    <Compile Include="Forms\BookingForm.cs" />
+    <Compile Include="Forms\MaintenanceForm.cs" />
+    <Compile Include="Forms\ReportForm.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

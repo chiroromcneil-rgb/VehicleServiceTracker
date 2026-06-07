@@ -1,0 +1,7 @@
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\bin\Debug\VehicleServiceTracker.exe.config
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\bin\Debug\VehicleServiceTracker.exe
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\bin\Debug\VehicleServiceTracker.pdb
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\obj\Debug\VehicleServiceTracker.csproj.AssemblyReference.cache
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\obj\Debug\VehicleServiceTracker.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\obj\Debug\VehicleServiceTracker.exe
+C:\Users\chiro\Downloads\VehicleServiceTracker_NET48_Fixed\VehicleServiceTracker\VehicleServiceTracker\obj\Debug\VehicleServiceTracker.pdb
