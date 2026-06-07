@@ -54,3 +54,7 @@ The application uses CSV files. When the program runs, it creates a `Data` folde
 * ## OOP Concepts Used
 The project uses classes, objects, inheritance, encapsulation, abstraction, polymorphism, and exception handling.
 
+## References and Tools Used
+- Microsoft Visual Studio
+- C# Windows Forms
+- ChatGPT for study support and debugging guidance
